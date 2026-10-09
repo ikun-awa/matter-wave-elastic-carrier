@@ -1,0 +1,53 @@
+[
+  {
+    "name": "scalar_w010",
+    "omega": 0.1,
+    "beta": 0.0,
+    "L": 120.0,
+    "M": 174.41431697778467,
+    "H": 1.615066279654993,
+    "Q0": 1.2639282745532496,
+    "E0": 0.6150166132026561,
+    "q_residual_max": 1.1867563182166307e-10,
+    "response_residual_max": 0.0,
+    "identity_wave": -4.561684363579843e-12,
+    "identity_scale": 1.5347723092418164e-12,
+    "nodes": 3877,
+    "positive_monotone": true,
+    "status": 0
+  },
+  {
+    "name": "coupled_b005",
+    "omega": 0.1,
+    "beta": 0.05,
+    "L": 120.0,
+    "M": 176.41578191215999,
+    "H": 1.6175914300100334,
+    "Q0": 1.264772920493892,
+    "E0": 0.6135051339664385,
+    "q_residual_max": 5.272515477602185e-10,
+    "response_residual_max": 5.064934582854619e-11,
+    "identity_wave": -1.1367262686690083e-10,
+    "identity_scale": -2.361844053666573e-10,
+    "nodes": 3146,
+    "positive_monotone": true,
+    "status": 0
+  },
+  {
+    "name": "coupled_b02",
+    "omega": 0.1,
+    "beta": 0.2,
+    "L": 120.0,
+    "M": 182.298906355314,
+    "H": 1.620798004337381,
+    "Q0": 1.267123251118473,
+    "E0": 0.6086476026720246,
+    "q_residual_max": 6.277263136372779e-10,
+    "response_residual_max": 1.6467760488581007e-10,
+    "identity_wave": -1.0984990694851149e-10,
+    "identity_scale": -2.1945822936686454e-10,
+    "nodes": 3124,
+    "positive_monotone": true,
+    "status": 0
+  }
+]

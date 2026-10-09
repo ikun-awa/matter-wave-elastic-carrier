@@ -1,0 +1,19 @@
+{
+  "label": "domain960",
+  "L": 960.0,
+  "n": 12287,
+  "dr": 0.078125,
+  "dt": 0.01,
+  "delta": 0.05,
+  "T": 200.0,
+  "steps": 20000,
+  "saved_frames": 201,
+  "finite": true,
+  "N_initial": 622.4326305561686,
+  "E_initial": -31.776689822744146,
+  "max_N_drift": 1.507422320648402e-11,
+  "max_E_drift": 1.4260840679250326e-07,
+  "max_width_change": 0.24039901962795196,
+  "min_core_fraction": 0.9982920130103635,
+  "max_outer_fraction": 2.2548987790516652e-09
+}

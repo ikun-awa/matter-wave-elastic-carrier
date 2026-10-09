@@ -1,0 +1,21 @@
+{
+  "name": "full_mix96",
+  "n": 96,
+  "L": 64.0,
+  "h": 0.6666666666666666,
+  "dt": 0.02,
+  "T": 20.0,
+  "kind": "mixed",
+  "delta": 0.05,
+  "full": true,
+  "alpha": 1.0,
+  "beta": 0.2,
+  "seed": 20261005,
+  "profile": "coupled_b02",
+  "profile_sha256": "b4cbbfdad9ebc766eb0b60361673edaa8d42dedda49636f99d201fe8ee3fd2a6",
+  "initial_e_amplitude": 0.02,
+  "initial_p_amplitude": 0.01,
+  "symmetry": "inversion-even but nonradial; no symmetry projection during evolution",
+  "dtype": "complex128/float64",
+  "save_interval": 1.0
+}

@@ -1,0 +1,19 @@
+{
+  "label": "perturb01",
+  "L": 640.0,
+  "n": 8191,
+  "dr": 0.078125,
+  "dt": 0.01,
+  "delta": 0.01,
+  "T": 200.0,
+  "steps": 20000,
+  "saved_frames": 201,
+  "finite": true,
+  "N_initial": 622.432630556169,
+  "E_initial": -31.850588707498982,
+  "max_N_drift": 6.8232271064766365e-12,
+  "max_E_drift": 2.4288988434600025e-08,
+  "max_width_change": 0.011682657628008242,
+  "min_core_fraction": 0.998688989790017,
+  "max_outer_fraction": 6.881566634877438e-08
+}

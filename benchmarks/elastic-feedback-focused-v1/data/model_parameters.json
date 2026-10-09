@@ -1,0 +1,13 @@
+{
+  "model": "i u_t = -Delta u - |u|^2 u + |u|^4 u",
+  "stationary_omega": 0.1,
+  "gaussian_N": 300,
+  "BVP_origin": "singular matrix S=diag(0,-2); Qprime(0)=0",
+  "BVP_outer": "Qprime+(sqrt(omega)+1/L)Q=0",
+  "time_boundary": "v=r*u=0 at r=0,L",
+  "time_solver": "sine-pseudospectral Strang splitting",
+  "perturbation": "Q(r)*(1+delta*exp(-(r/4)^2)); rescale to unperturbed norm",
+  "core_radius": 15.0,
+  "conservation": "spectral kinetic energy consistent with the discretized Laplacian",
+  "claims": "radial finite-time model benchmark only; not full 3D stability or electron observations"
+}

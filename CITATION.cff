@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the author and exact release version when using these research materials."
+type: software
+title: "Matter-wave elastic-carrier model: reproducibility materials"
+authors:
+  - family-names: "Li"
+    given-names: "Chunsheng"
+version: "1.0.0"
+date-released: "2026-10-09"
+repository-code: "https://github.com/ikun-awa/matter-wave-elastic-carrier"
+url: "https://github.com/ikun-awa/matter-wave-elastic-carrier/releases/tag/v1.0.0"
+license: MIT

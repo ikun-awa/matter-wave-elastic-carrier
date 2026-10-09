@@ -1,0 +1,21 @@
+{
+  "name": "scalar_box144",
+  "n": 144,
+  "L": 96.0,
+  "h": 0.6666666666666666,
+  "dt": 0.04,
+  "T": 20.0,
+  "kind": "mixed",
+  "delta": 0.05,
+  "full": false,
+  "alpha": 1.0,
+  "beta": 0.2,
+  "seed": 20261005,
+  "profile": "scalar_w010",
+  "profile_sha256": "99081d5cd58bb9b3345ac090c589489e123f3ee803d18ad3d32ca3cddc8d0457",
+  "initial_e_amplitude": 0.02,
+  "initial_p_amplitude": 0.01,
+  "symmetry": "inversion-even but nonradial; no symmetry projection during evolution",
+  "dtype": "complex128/float64",
+  "save_interval": 1.0
+}

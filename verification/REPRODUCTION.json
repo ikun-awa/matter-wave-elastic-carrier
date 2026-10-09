@@ -1,0 +1,62 @@
+{
+  "checks": [
+    {
+      "test": "saved_unperturbed_control_eE_p0",
+      "pass": true
+    },
+    {
+      "script": "analysis/code/test_core.py",
+      "exit_code": 0
+    },
+    {
+      "script": "methods/symbolic_review.py",
+      "exit_code": 0
+    },
+    {
+      "script": "analysis/code/test_manifest_entries.py",
+      "exit_code": 0
+    },
+    {
+      "script": "analysis/code/reproduce_comparisons.py",
+      "exit_code": 0
+    },
+    {
+      "script": "analysis/code/profiles.py",
+      "exit_code": 0
+    },
+    {
+      "script": "analysis/code/audit_math.py",
+      "exit_code": 0
+    },
+    {
+      "script": "analysis/code/translation_check.py",
+      "exit_code": 0
+    },
+    {
+      "script": "analysis/code/render_figures234.py",
+      "exit_code": 0
+    },
+    {
+      "script": "analysis/code/render_figure5.py",
+      "exit_code": 0
+    },
+    {
+      "test": "regenerated_numeric_diagnostics_match",
+      "slope_max_absolute": 0.0,
+      "eigenvalue_max_absolute": 0.0,
+      "stationary_quantity_max_absolute": 0.0,
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "new_large_pde_runs": 0,
+  "raw_data_modified": false,
+  "saved_field_comparisons_recomputed": 4,
+  "quantitative_figures_reproduced": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "checks_do_not_certify_general_stability": true
+}

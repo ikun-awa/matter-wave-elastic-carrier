@@ -1,0 +1,5 @@
+*.npz
+*.tiff
+__pycache__/
+*.pyc
+.git/

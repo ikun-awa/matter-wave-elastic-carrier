@@ -1,0 +1,19 @@
+{
+  "label": "time_coarse",
+  "L": 640.0,
+  "n": 8191,
+  "dr": 0.078125,
+  "dt": 0.04,
+  "delta": 0.05,
+  "T": 200.0,
+  "steps": 5000,
+  "saved_frames": 201,
+  "finite": true,
+  "N_initial": 622.4326305561688,
+  "E_initial": -31.776689822744167,
+  "max_N_drift": 1.74503069773477e-12,
+  "max_E_drift": 2.2793263943073063e-06,
+  "max_width_change": 0.2402849523543269,
+  "min_core_fraction": 0.9982918359850841,
+  "max_outer_fraction": 2.0287322144906997e-06
+}

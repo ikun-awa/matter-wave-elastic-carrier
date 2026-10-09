@@ -1,0 +1,19 @@
+{
+  "label": "time_medium",
+  "L": 640.0,
+  "n": 8191,
+  "dr": 0.078125,
+  "dt": 0.02,
+  "delta": 0.05,
+  "T": 200.0,
+  "steps": 10000,
+  "saved_frames": 201,
+  "finite": true,
+  "N_initial": 622.4326305561688,
+  "E_initial": -31.776689822744167,
+  "max_N_drift": 3.5424817231071663e-12,
+  "max_E_drift": 5.703123978078751e-07,
+  "max_width_change": 0.240346250643531,
+  "min_core_fraction": 0.9982919776155781,
+  "max_outer_fraction": 2.0291922894781872e-06
+}

@@ -1,0 +1,19 @@
+{
+  "label": "space_fine",
+  "L": 640.0,
+  "n": 16383,
+  "dr": 0.0390625,
+  "dt": 0.01,
+  "delta": 0.05,
+  "T": 200.0,
+  "steps": 20000,
+  "saved_frames": 201,
+  "finite": true,
+  "N_initial": 622.4326305561725,
+  "E_initial": -31.77668982274453,
+  "max_N_drift": 5.163493596918741e-13,
+  "max_E_drift": 1.4260810883881265e-07,
+  "max_width_change": 0.24036159250130562,
+  "min_core_fraction": 0.9982922046346101,
+  "max_outer_fraction": 2.0283636903585687e-06
+}

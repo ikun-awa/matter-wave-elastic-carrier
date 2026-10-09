@@ -1,0 +1,14 @@
+[
+  {
+    "name": "data-part-01.zip",
+    "bytes": 1376809432,
+    "sha256": "a2f33c71927fb9967a16b5e144341d23f1c947e4562bd8623c7a758f99da38d0",
+    "files": 221
+  },
+  {
+    "name": "data-part-02.zip",
+    "bytes": 897417335,
+    "sha256": "8fc3a644114158de628b50707621d8f8d2f2276b9d1cad13e112ff616d0d795f",
+    "files": 30
+  }
+]

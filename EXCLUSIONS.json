@@ -1,0 +1,11 @@
+{
+  "excluded_legacy_or_private_helpers": [
+    "benchmarks/elastic-feedback-focused-v1/code/figure1_v4_source.py",
+    "benchmarks/elastic-feedback-focused-v1/code/render_final.py",
+    "benchmarks/exact-saturation-v1/code/render_figure7.py",
+    "methods/archive_review.py",
+    "methods/test_archive_entry.py"
+  ],
+  "scientific_observations_removed": 0,
+  "reason": "Superseded plotting helpers and private archive-management diagnostics; current Figure2-5 entrypoints and original calculation outputs are included. Conceptual Figure1 and manuscript are not part of the code/data license."
+}

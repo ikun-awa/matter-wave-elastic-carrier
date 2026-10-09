@@ -1,0 +1,40 @@
+[
+  {
+    "name": "scalar_generic96",
+    "T": 20.0,
+    "phase_only_H1": 0.11224862289560864,
+    "translation_phase_H1_upper_bound": 0.051471900817414,
+    "translation": [
+      0.2675524061112061,
+      0.23027882768975882,
+      0.17798697742580047
+    ],
+    "centroid": [
+      0.27183560872934426,
+      0.23798340095397783,
+      0.18214154621971576
+    ],
+    "optimizer_success": true,
+    "gradient_norm": 5.029252825350905e-10,
+    "qualification": "A computed alignment upper bound, not a proof of global optimizer uniqueness or nonlinear orbital stability."
+  },
+  {
+    "name": "full_generic96",
+    "T": 20.0,
+    "phase_only_H1": 0.1086888675972955,
+    "translation_phase_H1_upper_bound": 0.051746488314551434,
+    "translation": [
+      0.2607375443525383,
+      0.22463657860637742,
+      0.17261360467430134
+    ],
+    "centroid": [
+      0.26496403078844133,
+      0.23180291131325814,
+      0.17658465018566707
+    ],
+    "optimizer_success": true,
+    "gradient_norm": 4.95263992659685e-12,
+    "qualification": "A computed alignment upper bound, not a proof of global optimizer uniqueness or nonlinear orbital stability."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "full_time128": "Memory allocation failure; no final state",
+  "full_box192": "Memory allocation failure after t=10; no final state",
+  "successful_replacements": [
+    "full_time128_retry1",
+    "full_box192_retry1"
+  ],
+  "equations_or_physical_parameters_changed": false
+}
